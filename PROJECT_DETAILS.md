@@ -1,30 +1,30 @@
-**Telecom Customer Churn Analysis – Technical & Analytical Details**
+### Telecom Customer Churn Analysis – Technical & Analytical Details
 
-**Dataset Overview**  
+## Dataset Overview 
 - Customer demographics: Age, gender, partner/dependent status  
 - Services: Internet type, tech support, online security, device protection  
 - Contract & Billing: Contract type, payment method, monthly charges  
 - Target: Customer churn (Yes/No)  
 
-**Analytical Approach**  
+## Analytical Approach  
 1. **Data Cleaning & Preparation:** Formatting, filtering, handling missing values  
 2. **Segmentation Analysis:** Pivot tables to examine churn by demographics, service, and contract  
 3. **Metric Calculations:** COUNTIFS and AVERAGEIFS to quantify churn percentages per segment  
 4. **Interactive Dashboards:** Designed for non-technical stakeholders to explore patterns
 
-### Dashboards
+## Dashboards
 
 **Overview Dashboard**
 - Total churn: 26%  
 - 47% of churned customers left after >1 year  
 - Higher average monthly charges linked to churn
 
-### Demographics Dashboard
+**Demographics Dashboard**
 - Senior citizens had higher churn rates  
 - Customers without dependents or partners had higher churn  
 - Gender impact: negligible
 
-### Services Dashboard
+**Services Dashboard**
 - Internet service:  
   - Fiber optic users: 69% churn  
   - DSL users: lower churn  
@@ -40,14 +40,14 @@
   - Electronic check: highest churn  
   - Automatic credit card: lowest churn
 
-### Churn Factors Dashboard
+**Churn Factors Dashboard**
 - Interactive slicers for filtering by internet type, partner, and dependent status  
 - Highest risk segment: Fiber optic users lacking tech support and online security, on month-to-month contracts, paying via electronic check
 
 ---
 
 
-**Suggestions to Reduce Churn**
+## Suggestions to Reduce Churn
 
 Based on the analysis, the telecom company can implement the following strategies to improve customer retention:
 
@@ -57,5 +57,5 @@ Based on the analysis, the telecom company can implement the following strategie
 Use dashboards to **monitor churn trends and effectiveness** of interventions
 
 
-**Conclusion**
+## Conclusion
 This project provides valuable insights into customer churn factors, enabling targeted retention strategies. The interactive dashboards help visualize and analyze trends effectively.

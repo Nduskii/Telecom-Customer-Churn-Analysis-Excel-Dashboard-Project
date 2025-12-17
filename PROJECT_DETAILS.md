@@ -12,9 +12,9 @@
 3. **Metric Calculations:** COUNTIFS and AVERAGEIFS to quantify churn percentages per segment  
 4. **Interactive Dashboards:** Designed for non-technical stakeholders to explore patterns
 
-**Dashboards**
+### Dashboards
 
-### Overview Dashboard
+**Overview Dashboard**
 - Total churn: 26%  
 - 47% of churned customers left after >1 year  
 - Higher average monthly charges linked to churn

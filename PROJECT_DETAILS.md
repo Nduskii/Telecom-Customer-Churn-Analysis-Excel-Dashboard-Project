@@ -1,16 +1,18 @@
-### Telecom Customer Churn Analysis – Technical & Analytical Details
+# Telecom Customer Churn Analysis – Technical & Analytical Details
 
 ## Dataset Overview 
 - Customer demographics: Age, gender, partner/dependent status  
 - Services: Internet type, tech support, online security, device protection  
 - Contract & Billing: Contract type, payment method, monthly charges  
-- Target: Customer churn (Yes/No)  
+- Target: Customer churn (Yes/No)
+
 
 ## Analytical Approach  
 1. **Data Cleaning & Preparation:** Formatting, filtering, handling missing values  
 2. **Segmentation Analysis:** Pivot tables to examine churn by demographics, service, and contract  
 3. **Metric Calculations:** COUNTIFS and AVERAGEIFS to quantify churn percentages per segment  
 4. **Interactive Dashboards:** Designed for non-technical stakeholders to explore patterns
+
 
 ## Dashboards
 

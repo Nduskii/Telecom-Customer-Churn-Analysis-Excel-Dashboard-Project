@@ -55,7 +55,8 @@ Based on the analysis, the telecom company can implement the following strategie
 
 **Retention Campaigns:** Target high-risk segments with personalized offers  
 **Product/Service Improvements:** Incentivize adoption of tech support and security services, **Improve Service Offerings for Fiber Optic Users**  
-**Payment Optimization:** Encourage automated payments to reduce churn 
+**Payment Optimization:** Encourage automated payments to reduce churn
+
 Use dashboards to **monitor churn trends and effectiveness** of interventions
 
 
